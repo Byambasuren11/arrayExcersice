@@ -236,6 +236,7 @@ and should return a string in the format `{name} gave the restaurant a {rating},
 */
 function getReviewByIndex(reviews, index) {
   /* code here */
+  
 }
 
 /* Exercise 12
